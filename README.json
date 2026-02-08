@@ -59,7 +59,7 @@
             "last_commit": "2026-02-06T03:52:35Z",
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "stars": 12951
+            "stars": 12959
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2024-05-24T11:51:09Z",
             "owner": "tor2web",
             "repo": "Tor2web",
-            "stars": 744
+            "stars": 745
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-01-08T06:16:42Z",
             "owner": "DedSecInside",
             "repo": "TorBot",
-            "stars": 3760
+            "stars": 3762
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2025-11-04T11:03:19Z",
             "owner": "TelegramMessenger",
             "repo": "MTProxy",
-            "stars": 5644
+            "stars": 5645
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2025-12-17T00:47:49Z",
             "owner": "klzgrad",
             "repo": "naiveproxy",
-            "stars": 7573
+            "stars": 7574
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2024-08-21T09:27:36Z",
             "owner": "trojan-gfw",
             "repo": "trojan",
-            "stars": 19621
+            "stars": 19622
           }
         }
       ],
@@ -717,10 +717,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:17:27.353Z",
+    "last_updated": "2026-02-08T04:25:04.143Z",
     "original_repository": "polycarbohydrate/awesome-tor",
     "source_repository": "v1nvn/enhansome-tor",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": ""
   }
 }
