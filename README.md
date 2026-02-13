@@ -76,11 +76,11 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 
 ### Other applications
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 12,976 | 🐛 5 | 🌐 Go | 📅 2026-02-10 - A flexible DNS proxy, with support for encrypted DNS protocols.
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 3,764 | 🐛 9 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 12,984 | 🐛 6 | 🌐 Go | 📅 2026-02-13 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 3,765 | 🐛 9 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
 * [rotating-proxy](https://github.com/mattes/rotating-proxy) ⭐ 1,202 | 🐛 24 | 🌐 Ruby | 📅 2024-04-25 - Rotating Tor proxy with Docker.
 * [kalitorify](https://github.com/brainfucksec/kalitorify) ⭐ 1,201 | 🐛 1 | 🌐 Shell | 📅 2024-04-18 - Shell script to create a transparent proxy through Tor for Kali Linux OS.
-* [multitor](https://github.com/trimstray/multitor) ⭐ 1,140 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Create multiple Tor instances with load balancing.
+* [multitor](https://github.com/trimstray/multitor) ⭐ 1,142 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Create multiple Tor instances with load balancing.
 * [TorChat](https://github.com/prof7bit/TorChat) ⭐ 986 | 🐛 70 | 🌐 Pascal | 📅 2018-10-22 - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 * [bine](https://github.com/cretz/bine) ⭐ 806 | 🐛 27 | 🌐 Go | 📅 2023-07-28 - Go library for accessing and embedding Tor clients and servers.
 * [eotk](https://github.com/alecmuffett/eotk) ⭐ 787 | 🐛 19 | 🌐 Awk | 📅 2024-02-09 - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
@@ -155,11 +155,11 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Bypass Censorship
 
 * [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,627 | 🐛 94 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
-* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,228 | 🐛 17 | 🌐 Dart | 📅 2026-02-11 - Censorship circumvention tool available for free download on any operating system.
-* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 7,583 | 🐛 14 | 🌐 C++ | 📅 2025-12-17 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
-* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 5,739 | 🐛 318 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
+* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,228 | 🐛 15 | 🌐 Dart | 📅 2026-02-13 - Censorship circumvention tool available for free download on any operating system.
+* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 7,586 | 🐛 15 | 🌐 C++ | 📅 2025-12-17 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 5,783 | 🐛 319 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
 * [Firefly](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,838 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumvent the Great Firewall.
-* [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) ⭐ 2,299 | 🐛 165 | 🌐 JavaScript | 📅 2025-12-13 - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
+* [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) ⭐ 2,301 | 🐛 165 | 🌐 JavaScript | 📅 2025-12-13 - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
 * [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) ⭐ 174 | 🐛 2 | 🌐 HTML | 📅 2024-10-17 - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
 * [FWlite](https://github.com/v3aqb/fwlite) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2024-02-17 - An anti-censorship HTTP proxy with built-in shadowsocks support.
 * [StegoTorus](https://github.com/SRI-CSL/stegotorus) ⭐ 88 | 🐛 1 | 🌐 C++ | 📅 2015-07-22 - A Camouflage Proxy for the Tor Anonymity System.
@@ -206,5 +206,5 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,772 | 🐛 462 | 🌐 Python | 📅 2026-02-11 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,773 | 🐛 463 | 🌐 Python | 📅 2026-02-12 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 * [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
