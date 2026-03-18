@@ -76,17 +76,17 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 
 ### Other applications
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,115 | 🐛 6 | 🌐 Go | 📅 2026-03-12 - A flexible DNS proxy, with support for encrypted DNS protocols.
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 3,825 | 🐛 9 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,122 | 🐛 6 | 🌐 Go | 📅 2026-03-12 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 3,826 | 🐛 9 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
 * [kalitorify](https://github.com/brainfucksec/kalitorify) ⭐ 1,214 | 🐛 1 | 🌐 Shell | 📅 2024-04-18 - Shell script to create a transparent proxy through Tor for Kali Linux OS.
 * [rotating-proxy](https://github.com/mattes/rotating-proxy) ⭐ 1,203 | 🐛 24 | 🌐 Ruby | 📅 2024-04-25 - Rotating Tor proxy with Docker.
 * [multitor](https://github.com/trimstray/multitor) ⭐ 1,142 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Create multiple Tor instances with load balancing.
-* [TorChat](https://github.com/prof7bit/TorChat) ⭐ 991 | 🐛 68 | 🌐 Pascal | 📅 2018-10-22 - Decentralized anonymous instant messenger on top of Tor Hidden Services.
+* [TorChat](https://github.com/prof7bit/TorChat) ⭐ 992 | 🐛 68 | 🌐 Pascal | 📅 2018-10-22 - Decentralized anonymous instant messenger on top of Tor Hidden Services.
 * [bine](https://github.com/cretz/bine) ⭐ 807 | 🐛 27 | 🌐 Go | 📅 2023-07-28 - Go library for accessing and embedding Tor clients and servers.
 * [eotk](https://github.com/alecmuffett/eotk) ⭐ 786 | 🐛 19 | 🌐 Awk | 📅 2024-02-09 - Tool for deploying HTTP/Onion sites to provide official, onion-networking for popular websites.
 * [Tor2web](https://github.com/tor2web/Tor2web) ⭐ 751 | 🐛 167 | 🌐 Python | 📅 2024-05-24 - HTTP proxy software that enables access to Tor Hidden Services through common web browsers.
 * [node-Tor](https://github.com/Ayms/node-Tor) ⭐ 718 | 🐛 2 | 🌐 JavaScript | 📅 2022-08-29 - JavaScript open-source implementation of the Tor protocol on the server side and browsers.
-* [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) ⭐ 586 | 🐛 10 | 🌐 Python | 📅 2025-07-26 - A Python library to automate Tor Browser with Selenium WebDriver.
+* [tor-browser-selenium](https://github.com/webfp/tor-browser-selenium) ⭐ 586 | 🐛 12 | 🌐 Python | 📅 2025-07-26 - A Python library to automate Tor Browser with Selenium WebDriver.
 * [Tallow](https://github.com/basil00/TorWall) ⭐ 559 | 🐛 17 | 🌐 C | 📅 2021-09-11 - A program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
 * [tor-controller](https://github.com/kragniz/tor-controller) ⭐ 538 | 🐛 10 | 🌐 Go | 📅 2021-09-26 - Run Tor Onion Services on Kubernetes.
 * [toriptabkes2](https://github.com/ruped24/toriptables2) ⭐ 489 | 🐛 0 | 🌐 Python | 📅 2025-07-31 - An anonymizer that sets up iptables and Tor to route all traffic through the Tor network.
@@ -154,10 +154,10 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 
 ## Bypass Censorship
 
-* [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,655 | 🐛 94 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
-* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,292 | 🐛 13 | 🌐 Dart | 📅 2026-03-16 - Censorship circumvention tool available for free download on any operating system.
-* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 7,784 | 🐛 19 | 🌐 C++ | 📅 2025-12-17 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
-* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,187 | 🐛 323 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
+* [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,656 | 🐛 94 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
+* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,292 | 🐛 13 | 🌐 Dart | 📅 2026-03-17 - Censorship circumvention tool available for free download on any operating system.
+* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 7,788 | 🐛 19 | 🌐 C++ | 📅 2025-12-17 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,214 | 🐛 323 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
 * [Firefly](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,835 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumvent the Great Firewall.
 * [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) ⭐ 2,320 | 🐛 167 | 🌐 JavaScript | 📅 2025-12-13 - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
 * [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) ⭐ 176 | 🐛 2 | 🌐 HTML | 📅 2024-10-17 - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
@@ -206,5 +206,5 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,787 | 🐛 463 | 🌐 Python | 📅 2026-03-16 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,787 | 🐛 464 | 🌐 Python | 📅 2026-03-17 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 * [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
