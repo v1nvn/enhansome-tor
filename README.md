@@ -76,8 +76,8 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 
 ### Other applications
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,197 | 🐛 7 | 🌐 Go | 📅 2026-04-11 - A flexible DNS proxy, with support for encrypted DNS protocols.
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 3,963 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,197 | 🐛 6 | 🌐 Go | 📅 2026-04-11 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 3,964 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
 * [kalitorify](https://github.com/brainfucksec/kalitorify) ⭐ 1,215 | 🐛 1 | 🌐 Shell | 📅 2024-04-18 - Shell script to create a transparent proxy through Tor for Kali Linux OS.
 * [rotating-proxy](https://github.com/mattes/rotating-proxy) ⭐ 1,206 | 🐛 24 | 🌐 Ruby | 📅 2024-04-25 - Rotating Tor proxy with Docker.
 * [multitor](https://github.com/trimstray/multitor) ⭐ 1,150 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Create multiple Tor instances with load balancing.
@@ -154,10 +154,10 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 
 ## Bypass Censorship
 
-* [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,674 | 🐛 95 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
-* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,413 | 🐛 24 | 🌐 Dart | 📅 2026-04-14 - Censorship circumvention tool available for free download on any operating system.
-* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 8,248 | 🐛 15 | 🌐 C++ | 📅 2026-04-08 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
-* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,668 | 🐛 330 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
+* [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,675 | 🐛 95 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
+* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,418 | 🐛 22 | 🌐 Dart | 📅 2026-04-14 - Censorship circumvention tool available for free download on any operating system.
+* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 8,267 | 🐛 15 | 🌐 C++ | 📅 2026-04-08 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,676 | 🐛 330 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
 * [Firefly](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,828 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumvent the Great Firewall.
 * [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) ⭐ 2,337 | 🐛 170 | 🌐 JavaScript | 📅 2025-12-13 - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
 * [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) ⭐ 176 | 🐛 2 | 🌐 HTML | 📅 2024-10-17 - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
@@ -206,5 +206,5 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,804 | 🐛 466 | 🌐 Python | 📅 2026-04-13 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,804 | 🐛 469 | 🌐 Python | 📅 2026-04-14 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 * [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
