@@ -76,9 +76,9 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 
 ### Other applications
 
-* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,260 | 🐛 5 | 🌐 Go | 📅 2026-04-30 - A flexible DNS proxy, with support for encrypted DNS protocols.
-* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,044 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
-* [kalitorify](https://github.com/brainfucksec/kalitorify) ⭐ 1,220 | 🐛 1 | 🌐 Shell | 📅 2024-04-18 - Shell script to create a transparent proxy through Tor for Kali Linux OS.
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,260 | 🐛 5 | 🌐 Go | 📅 2026-05-02 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [TorBot](https://github.com/DedSecInside/TorBot) ⭐ 4,048 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - Onion site crawler for data collection.
+* [kalitorify](https://github.com/brainfucksec/kalitorify) ⭐ 1,219 | 🐛 1 | 🌐 Shell | 📅 2024-04-18 - Shell script to create a transparent proxy through Tor for Kali Linux OS.
 * [rotating-proxy](https://github.com/mattes/rotating-proxy) ⭐ 1,208 | 🐛 24 | 🌐 Ruby | 📅 2024-04-25 - Rotating Tor proxy with Docker.
 * [multitor](https://github.com/trimstray/multitor) ⭐ 1,159 | 🐛 23 | 🌐 Shell | 📅 2024-11-19 - Create multiple Tor instances with load balancing.
 * [TorChat](https://github.com/prof7bit/TorChat) ⭐ 994 | 🐛 68 | 🌐 Pascal | 📅 2018-10-22 - Decentralized anonymous instant messenger on top of Tor Hidden Services.
@@ -107,7 +107,7 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 * [dos-over-tor](https://github.com/skizap/dos-over-tor) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2026-02-23 - Proof of concept denial of service over Tor stress test tool.
 * [Stormy](https://github.com/glamrock/stormy) ⭐ 40 | 🐛 5 | 🌐 Python | 📅 2015-06-03 - Stormy is a wizard that helps people create Tor Onion Services with just a few clicks.
 * [onion-grater](https://github.com/Whonix/onion-grater) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2026-03-28 - Whitelisting filter for dangerous Tor control protocol commands.
-* [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up your GitHub Actions workflow with a specific version of Tor.
+* [setup-tor](https://github.com/tor-actions/setup-tor) ⭐ 10 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-29 - Set up your GitHub Actions workflow with a specific version of Tor.
 * [Briar](https://briarproject.org/) - Peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi, or Tor.
 * [Bulk Tor Exit Exporter](https://check.torproject.org/api/bulk) - Identify Tor exit nodes by showing exit node IPv4 and fingerprint information.
 * [Chutney](https://gitlab.torproject.org/tpo/core/chutney/) - Configures a Tor network, launches and monitors it, and then runs tests on it.
@@ -155,11 +155,11 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Bypass Censorship
 
 * [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,704 | 🐛 95 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
-* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,481 | 🐛 28 | 🌐 Dart | 📅 2026-05-01 - Censorship circumvention tool available for free download on any operating system.
-* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 8,575 | 🐛 5 | 🌐 C++ | 📅 2026-05-02 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
-* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,747 | 🐛 332 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
+* [Lantern](https://github.com/getlantern/lantern) ⭐ 15,484 | 🐛 28 | 🌐 Dart | 📅 2026-05-01 - Censorship circumvention tool available for free download on any operating system.
+* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 8,585 | 🐛 5 | 🌐 C++ | 📅 2026-05-02 - NaïveProxy uses Chromium's network stack to camouflage traffic with strong censorship resistance and low detectability.
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,745 | 🐛 332 | 🌐 C | 📅 2025-11-04 - Allows users in censored areas to connect to Telegram.
 * [Firefly](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,818 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumvent the Great Firewall.
-* [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) ⭐ 2,348 | 🐛 171 | 🌐 JavaScript | 📅 2025-12-13 - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
+* [Runet Censorship Bypass](https://github.com/anticensority/runet-censorship-bypass) ⭐ 2,350 | 🐛 171 | 🌐 JavaScript | 📅 2025-12-13 - A browser extension for Chromium and Firefox that helps to bypass censorship in Russia.
 * [nodeunblocker](https://github.com/nfriedly/nodeunblocker.com) ⭐ 175 | 🐛 2 | 🌐 HTML | 📅 2024-10-17 - Host your copy of nodeunblocker.com using Node.js to bypass censorship on the internet.
 * [FWlite](https://github.com/v3aqb/fwlite) ⭐ 137 | 🐛 5 | 🌐 Python | 📅 2024-02-17 - An anti-censorship HTTP proxy with built-in shadowsocks support.
 * [StegoTorus](https://github.com/SRI-CSL/stegotorus) ⭐ 88 | 🐛 1 | 🌐 C++ | 📅 2015-07-22 - A Camouflage Proxy for the Tor Anonymity System.
@@ -206,5 +206,5 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Whistleblowing
 
 * [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,804 | 🐛 470 | 🌐 Python | 📅 2026-05-01 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+* [SecureDrop](https://github.com/freedomofpress/securedrop) ⭐ 3,804 | 🐛 471 | 🌐 Python | 📅 2026-05-02 - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 * [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
